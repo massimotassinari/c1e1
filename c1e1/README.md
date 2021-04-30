@@ -1,13 +1,11 @@
-# Tarea 0: 👋 Bienvenida!
+# Algoritmos y programacion
 
-Este proyecto es para que te familiarices con la plataforma y la forma en como debes entregar las evaluaciones.
+Escribe en el archivo main un codigo que imprima en la consola lo siguiente:
 
 ---
 
-## Instrucciones
 
-Imprime en la consola:
 
 ```
-Hola Mundo!
+Hola Mundo! mi nombre es Massimo y tengo 21, estudio sistemas en la UNIMET!
 ```
