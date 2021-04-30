@@ -1,4 +1,4 @@
-#Algoritmos y Programacion
+###Algoritmos y Programacion
 
 Escribe en el archivo main un codigo que imprima en la consola lo siguiente:
 
