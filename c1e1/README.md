@@ -1,7 +1,13 @@
-###Algoritmos y Programacion
+# Tarea 0: 👋 Bienvenida!
 
-Escribe en el archivo main un codigo que imprima en la consola lo siguiente:
+Este proyecto es para que te familiarices con la plataforma y la forma en como debes entregar las evaluaciones.
 
-'''python
-Hola Mundo! mi nombre es {tu_nombre_aqui} y tengo {tu_edad_aqui} años, estudio {tu_carrera_aqui} en la UNIMET!
-'''
+---
+
+## Instrucciones
+
+Imprime en la consola:
+
+```
+Hola Mundo!
+```
